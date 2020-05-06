@@ -38,7 +38,7 @@
   },
   "homepage": "https://github.com/mixmaxhq/mongo-cursor-pagination#readme",
   "dependencies": {
-    "base64-url": "^2.2.0",
+    "base64-url": "^2.3.3",
     "bson": "^4.0.4",
     "object-path": "^0.11.4",
     "projection-utils": "^1.1.0",
